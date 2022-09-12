@@ -4,7 +4,7 @@
       "nome": "450 megas",
       "preco": "99,90",
       "temTvGratis":true,
-      "nivelDeDestaque":2
+      "nivelDeDestaque":1
     },
     {
       "nome": "90 megas",
@@ -16,7 +16,7 @@
       "nome": "300 megas",
       "preco": "79,90",
       "temTvGratis":true,
-      "nivelDeDestaque":1
+      "nivelDeDestaque":2
     }
   ]
 }
