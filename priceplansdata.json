@@ -1,0 +1,10 @@
+{
+  "planos": [
+    {
+      "nome": "300 megas",
+      "preco": "99,90",
+      "temTvGratis":true,
+      "nivelDeDestaque":2
+    }
+  ]
+}
