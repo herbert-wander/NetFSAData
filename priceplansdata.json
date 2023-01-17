@@ -3,7 +3,7 @@
     {
       "nome": "50 megas",
       "preco": "59,90",
-      "temTvGratis":false,
+      "temTvGratis":true,
       "nivelDeDestaque":1
     },
     {
